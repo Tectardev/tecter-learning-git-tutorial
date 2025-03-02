@@ -3,5 +3,5 @@ in this file, i am actually learning how to create and use git on my local machi
 
 if you are tech then you might as well be useful
 
-Author: thomas
+Author: Thomas  humber
 Twitter: @tecterdev
